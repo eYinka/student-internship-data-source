@@ -1,0 +1,5504 @@
+{
+  "internships": [
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.8",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "1.0",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.3",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.8"
+        }
+      },
+      "industry_skills": {
+        "score": "0.0",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.9",
+          "job_placement_history": "0.7"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.1",
+          "accounting": "1.0",
+          "project_management": "0.0"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.8",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.5",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.8",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.1",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "1.0",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.2",
+          "accounting": "0.8",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.3",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.1",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "1.0",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.9",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.6",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.0",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.6",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.7",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.4",
+          "accounting": "0.3",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "1.0",
+        "attributes": {
+          "ready_to_move": "0.0",
+          "remote_only": "0.0",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.4",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.4",
+            "Essex": "0.7"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.0",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.6",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.6",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.8",
+          "accounting": "0.7",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.2",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.6",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.2",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.1",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.4",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "0.7",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.9",
+          "accounting": "0.3",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.5",
+        "attributes": {
+          "ready_to_move": "1.0",
+          "remote_only": "0.6",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.6",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.8",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.4",
+          "degree_percentage": "0.6",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.8",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.7",
+          "job_placement_history": "0.3"
+        }
+      },
+      "tech_skills": {
+        "score": "1.0",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.2",
+          "accounting": "0.1",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.1",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.5",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.3",
+            "Liverpool": "0.2",
+            "Essex": "0.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.4",
+          "hsc_board": "1.0",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.6",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.5",
+          "accounting": "0.6",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.8",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.5",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.0",
+        "attributes": {
+          "ssc_percentage": "0.1",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.4",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.3",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.9",
+        "attributes": {
+          "industry_experience": "1.0",
+          "specialisation": "0.2",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.2",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.9",
+          "accounting": "0.4",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.0",
+          "hybrid": "0.5",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.6",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.0",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.3",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.0",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.8",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.3",
+          "accounting": "0.5",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "1.0",
+        "attributes": {
+          "ready_to_move": "0.1",
+          "remote_only": "0.4",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.3",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.0",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.0",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.4",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.1",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.4",
+          "html": "0.5",
+          "accounting": "0.7",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.7",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.5",
+            "Essex": "0.5"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.5"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "1.0",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.6",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.0",
+        "attributes": {
+          "java": "0.1",
+          "html": "0.5",
+          "accounting": "0.5",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "0.9",
+          "remote_only": "0.8",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.8",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.4",
+        "attributes": {
+          "ssc_percentage": "0.1",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.1",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.7",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.3",
+          "job_placement_history": "0.7"
+        }
+      },
+      "tech_skills": {
+        "score": "1.0",
+        "attributes": {
+          "java": "0.0",
+          "html": "0.8",
+          "accounting": "0.1",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.5",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.5",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.4",
+            "Essex": "0.7"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.2",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.0",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "1.0",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "1.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.9",
+        "attributes": {
+          "industry_experience": "0.4",
+          "specialisation": "0.4",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.6",
+          "html": "0.9",
+          "accounting": "0.9",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.5",
+        "attributes": {
+          "ready_to_move": "0.7",
+          "remote_only": "0.9",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.8",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.0",
+        "attributes": {
+          "nickname": "0.0",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.0",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.5",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.3",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.8",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.9",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.6",
+          "accounting": "0.7",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.9",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.0",
+            "Liverpool": "0.1",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.5"
+        }
+      },
+      "education": {
+        "score": "1.0",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.1",
+          "degree_percentage": "0.5",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.6",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.4",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.1",
+          "accounting": "0.6",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.0",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.3",
+            "Liverpool": "0.3",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.3",
+        "attributes": {
+          "nickname": "0.6",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.4",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.2",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.4",
+          "html": "1.0",
+          "accounting": "0.4",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.2",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.9",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "1.0",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.9",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.6",
+          "accounting": "0.2",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "1.0",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.5",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.8",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.7",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.3",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.1",
+          "job_placement_history": "0.3"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.1",
+          "html": "0.3",
+          "accounting": "0.1",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "1.0",
+        "attributes": {
+          "ready_to_move": "0.7",
+          "remote_only": "0.4",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "1.0",
+            "Liverpool": "0.7",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.0",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.2",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "1.0",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.7",
+          "accounting": "0.7",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.5",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.7",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.4",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.0",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "1.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.8",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.7",
+          "accounting": "0.5",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.1",
+          "remote_only": "0.8",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.8",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.2",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.8"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.4",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.2",
+          "accounting": "0.9",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.2",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.0",
+            "Liverpool": "0.5",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.0",
+          "gender": "0.0"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.0",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.6",
+          "hsc_subject": "1.0",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.0",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.5",
+          "job_placement_history": "0.7"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.1",
+          "accounting": "0.3",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.1",
+          "remote_only": "0.2",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.5",
+            "Liverpool": "0.7",
+            "Essex": "1.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.0"
+        }
+      },
+      "education": {
+        "score": "0.8",
+        "attributes": {
+          "ssc_percentage": "0.0",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.3",
+          "hsc_subject": "1.0",
+          "degree_percentage": "0.5",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.5",
+          "job_placement_history": "0.5"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.0",
+          "accounting": "0.6",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.4",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.5",
+          "preferred_location": {
+            "London": "0.5",
+            "Liverpool": "0.3",
+            "Essex": "0.7"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.0",
+        "attributes": {
+          "ssc_percentage": "0.1",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.5",
+          "emp_test_percentage": "0.6",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.4",
+          "specialisation": "0.4",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.1",
+          "accounting": "0.7",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.9",
+          "hybrid": "0.5",
+          "in_office_preferred": "0.4",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.1",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.6",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "1.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "1.0",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.3",
+          "accounting": "0.3",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.7",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.9",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "0.4",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.9",
+          "accounting": "0.5",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.1",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.4",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.3",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.0",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.5",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "1.0",
+          "specialisation": "0.2",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.1",
+          "accounting": "0.0",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.9",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.7",
+            "Essex": "0.7"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.3",
+          "hsc_percentage": "1.0",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.7",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.3",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.3",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.0",
+          "accounting": "0.9",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.0",
+          "hybrid": "0.0",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.6",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.8",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.0",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.7",
+          "hsc_percentage": "0.9",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.5",
+          "job_placement_history": "0.5"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.8",
+          "accounting": "0.2",
+          "project_management": "1.0"
+        }
+      },
+      "general": {
+        "score": "0.2",
+        "attributes": {
+          "ready_to_move": "0.9",
+          "remote_only": "0.5",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.4",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.3",
+            "Essex": "0.3"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.9",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.4",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.5",
+          "emp_test_percentage": "0.0",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "0.7",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.0",
+          "html": "0.2",
+          "accounting": "0.9",
+          "project_management": "0.2"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.9",
+          "hybrid": "0.1",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.9",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.4",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.1",
+          "hsc_percentage": "1.0",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.8"
+        }
+      },
+      "industry_skills": {
+        "score": "0.6",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.6",
+          "job_placement_history": "0.7"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.4",
+          "html": "1.0",
+          "accounting": "0.1",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.7",
+          "remote_only": "0.8",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.9",
+            "Essex": "0.7"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.2",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.6",
+          "degree_percentage": "0.0",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.6",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "1.0",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.3",
+          "accounting": "0.1",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.1",
+          "remote_only": "1.0",
+          "hybrid": "0.8",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.7",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.2",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.8",
+          "accounting": "0.8",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.1",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.7",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.0",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.5",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "1.0",
+        "attributes": {
+          "nickname": "0.8",
+          "gender": "0.5"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.9",
+          "hsc_board": "0.4",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.3",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "0.4",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.4",
+          "accounting": "0.4",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "1.0",
+          "remote_only": "0.5",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.2",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "1.0",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.6",
+          "job_placement_history": "0.3"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.3",
+          "html": "1.0",
+          "accounting": "0.3",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.1",
+          "hybrid": "0.8",
+          "in_office_preferred": "0.4",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.3",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.1",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "1.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "0.5",
+          "job_placement_history": "0.7"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.6",
+          "accounting": "0.1",
+          "project_management": "1.0"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.2",
+          "hybrid": "0.8",
+          "in_office_preferred": "0.5",
+          "preferred_location": {
+            "London": "0.5",
+            "Liverpool": "0.2",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "1.0",
+        "attributes": {
+          "nickname": "0.8",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.0",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.4",
+          "hsc_subject": "0.0",
+          "degree_percentage": "0.3",
+          "undergrad_degree": "0.1",
+          "work_experience": "1.0",
+          "emp_test_percentage": "0.6",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.9",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.3",
+          "job_placement_history": "0.5"
+        }
+      },
+      "tech_skills": {
+        "score": "0.2",
+        "attributes": {
+          "java": "0.6",
+          "html": "0.3",
+          "accounting": "0.3",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.7",
+          "remote_only": "0.8",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "1.0",
+            "Liverpool": "0.2",
+            "Essex": "0.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.0",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.9",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.1",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.1",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.2",
+          "accounting": "0.9",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.9",
+          "hybrid": "0.8",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.3",
+            "Liverpool": "0.7",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.8",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.7",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.3",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.1",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.9",
+          "accounting": "0.9",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.1",
+          "remote_only": "0.0",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.0",
+            "Essex": "0.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "1.0",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.9",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.4",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.8",
+          "accounting": "0.4",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.4",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.6",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "1.0",
+        "attributes": {
+          "nickname": "0.8",
+          "gender": "0.5"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.0",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.2",
+          "specialisation": "0.6",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.4",
+          "html": "0.2",
+          "accounting": "0.6",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.7",
+          "remote_only": "0.7",
+          "hybrid": "0.1",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.1",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.3",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "1.0",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.4",
+          "emp_test_percentage": "1.0",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.3",
+          "job_placement_history": "0.3"
+        }
+      },
+      "tech_skills": {
+        "score": "0.0",
+        "attributes": {
+          "java": "0.1",
+          "html": "0.9",
+          "accounting": "0.4",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.5",
+          "hybrid": "0.1",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "1.0",
+            "Liverpool": "0.2",
+            "Essex": "0.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.6",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.7",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.4",
+          "html": "0.0",
+          "accounting": "0.5",
+          "project_management": "0.2"
+        }
+      },
+      "general": {
+        "score": "0.1",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.2",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.9",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.6",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.4",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.7",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.1",
+          "specialisation": "0.4",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.5",
+          "accounting": "0.8",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.0",
+          "remote_only": "0.1",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.4",
+            "Essex": "0.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.0",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.6",
+          "degree_percentage": "0.0",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.4",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.7",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "1.0",
+        "attributes": {
+          "java": "0.9",
+          "html": "1.0",
+          "accounting": "0.9",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.1",
+          "remote_only": "0.2",
+          "hybrid": "0.8",
+          "in_office_preferred": "0.0",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.5",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "1.0",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "1.0",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.9",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.0",
+          "html": "0.3",
+          "accounting": "0.8",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.3",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.5",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.0",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.6",
+        "attributes": {
+          "industry_experience": "0.1",
+          "specialisation": "0.8",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.5",
+          "accounting": "0.5",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.3",
+          "hybrid": "1.0",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.9",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.3",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.6",
+          "mba_percent": "0.8"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "1.0",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.0",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.5",
+          "accounting": "0.1",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.0",
+          "hybrid": "0.8",
+          "in_office_preferred": "0.4",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.0",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.5",
+          "degree_percentage": "1.0",
+          "undergrad_degree": "0.7",
+          "work_experience": "1.0",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.2",
+          "specialisation": "1.0",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.4",
+          "accounting": "0.6",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.4",
+          "hybrid": "1.0",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.6",
+            "Essex": "0.5"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.8",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.6",
+          "degree_percentage": "0.0",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.9",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "0.2",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.7",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.7",
+          "accounting": "0.8",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "1.0",
+          "remote_only": "0.1",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.1",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.3",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.6",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.7",
+          "hsc_percentage": "0.9",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.1",
+          "work_experience": "1.0",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.0",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.8",
+          "accounting": "0.3",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.9",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.0",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.7",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.0",
+          "gender": "0.0"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.0",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.0",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.1",
+          "specialisation": "0.7",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.4",
+          "accounting": "0.6",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.1",
+        "attributes": {
+          "ready_to_move": "0.0",
+          "remote_only": "0.5",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.8",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.3",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "1.0",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.0",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.0",
+          "specialisation": "0.6",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.5",
+          "accounting": "0.7",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.2",
+        "attributes": {
+          "ready_to_move": "0.0",
+          "remote_only": "0.8",
+          "hybrid": "0.8",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.7",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.2",
+          "hsc_percentage": "1.0",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.3",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.2",
+          "specialisation": "0.6",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.3",
+          "accounting": "1.0",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "1.0",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.0",
+          "preferred_location": {
+            "London": "0.0",
+            "Liverpool": "0.4",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.4",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.1",
+          "specialisation": "0.5",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.3",
+          "accounting": "0.8",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.8",
+          "hybrid": "0.5",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.7",
+            "Essex": "0.5"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.1",
+          "specialisation": "0.3",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.7",
+        "attributes": {
+          "java": "0.0",
+          "html": "0.1",
+          "accounting": "0.3",
+          "project_management": "0.2"
+        }
+      },
+      "general": {
+        "score": "1.0",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.6",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.1",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "1.0",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.5",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "0.6",
+          "html": "0.9",
+          "accounting": "0.4",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.8",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "1.0",
+            "Liverpool": "0.4",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.3",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.4",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.9",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.1",
+          "accounting": "0.1",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.2",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.6",
+            "Essex": "0.5"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.3",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.0",
+          "hsc_percentage": "0.9",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.6",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.0",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.4",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.2",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.5",
+          "accounting": "1.0",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.2",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.5",
+            "Liverpool": "0.0",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.6",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.8",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.8",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.7",
+          "emp_test_percentage": "1.0",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.4",
+          "job_placement_history": "1.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.1",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.4",
+          "accounting": "1.0",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.0",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.8",
+          "hybrid": "0.0",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.5",
+            "Essex": "0.3"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.0",
+          "work_experience": "0.3",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.1",
+          "job_placement_history": "0.5"
+        }
+      },
+      "tech_skills": {
+        "score": "0.2",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.4",
+          "accounting": "0.5",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.8",
+          "hybrid": "0.1",
+          "in_office_preferred": "0.0",
+          "preferred_location": {
+            "London": "0.5",
+            "Liverpool": "0.5",
+            "Essex": "1.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.6",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.0",
+          "hsc_percentage": "0.0",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.1",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.5",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.6",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "1.0",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.2",
+        "attributes": {
+          "java": "0.4",
+          "html": "0.6",
+          "accounting": "0.2",
+          "project_management": "0.0"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.7",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.5",
+            "Liverpool": "0.3",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.6",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.2",
+          "hsc_percentage": "1.0",
+          "hsc_board": "0.4",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.0",
+        "attributes": {
+          "industry_experience": "0.4",
+          "specialisation": "0.6",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.7",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.9",
+          "accounting": "0.4",
+          "project_management": "0.8"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.2",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.8",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.0",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.8",
+          "specialisation": "0.7",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.6",
+          "accounting": "0.1",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.9",
+          "remote_only": "0.4",
+          "hybrid": "0.1",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.4",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.0",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.3",
+          "emp_test_percentage": "0.0",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.7",
+          "job_placement_history": "0.5"
+        }
+      },
+      "tech_skills": {
+        "score": "0.7",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.1",
+          "accounting": "0.5",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.0",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.2",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.0",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.1",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "1.0",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.6",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.0",
+          "specialisation": "0.2",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.6",
+          "html": "0.6",
+          "accounting": "0.1",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.6",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.4",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.6",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.8",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.0",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.0",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.7",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.9",
+          "accounting": "0.9",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "0.7",
+          "remote_only": "0.5",
+          "hybrid": "0.0",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.7",
+            "Essex": "0.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "1.0",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.7",
+          "hsc_subject": "1.0",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.5",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.6",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.6",
+          "html": "0.8",
+          "accounting": "0.1",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.2",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "1.0",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.5",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.8",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.1",
+          "ssc_board": "0.7",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.5",
+          "undergrad_degree": "0.7",
+          "work_experience": "0.3",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.1",
+          "specialisation": "1.0",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.1",
+          "accounting": "0.5",
+          "project_management": "0.4"
+        }
+      },
+      "general": {
+        "score": "0.7",
+        "attributes": {
+          "ready_to_move": "0.7",
+          "remote_only": "1.0",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.9",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.8",
+          "gender": "0.1"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.7",
+          "hsc_board": "1.0",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.0",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.1",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.4",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.5",
+          "html": "1.0",
+          "accounting": "0.5",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.3",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.5",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.4",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.8",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.2",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.1",
+          "accounting": "0.6",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.5",
+        "attributes": {
+          "ready_to_move": "0.1",
+          "remote_only": "0.6",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.0",
+            "Liverpool": "0.9",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.0",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.0",
+          "hsc_subject": "0.2",
+          "degree_percentage": "1.0",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "1.0",
+          "job_placement_history": "1.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.1",
+          "html": "0.0",
+          "accounting": "0.3",
+          "project_management": "1.0"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.5",
+          "hybrid": "1.0",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.8",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.8",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "0.7",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.0",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.1",
+          "specialisation": "0.6",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.1",
+          "accounting": "0.1",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.6",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.2",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.1",
+            "Essex": "0.5"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.8",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.5"
+        }
+      },
+      "education": {
+        "score": "0.4",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.4",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.0",
+          "specialisation": "0.0",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.7",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.7",
+          "accounting": "0.2",
+          "project_management": "0.2"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.8",
+          "hybrid": "0.5",
+          "in_office_preferred": "1.0",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.1",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.6",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "1.0",
+          "ssc_board": "0.6",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.1",
+          "degree_percentage": "0.5",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.5",
+          "emp_test_percentage": "1.0",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.7",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.1",
+          "html": "0.3",
+          "accounting": "0.4",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.9",
+          "remote_only": "1.0",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.0",
+            "Liverpool": "0.2",
+            "Essex": "0.3"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.5"
+        }
+      },
+      "education": {
+        "score": "0.6",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.5",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.2",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.2",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.2",
+          "accounting": "0.1",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "1.0",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.4",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.7",
+            "Essex": "1.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.0",
+          "gender": "0.5"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.1",
+          "degree_percentage": "0.5",
+          "undergrad_degree": "1.0",
+          "work_experience": "0.5",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.3",
+          "job_placement_history": "0.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.1",
+          "html": "0.5",
+          "accounting": "0.5",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.0",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.3",
+          "hybrid": "0.5",
+          "in_office_preferred": "1.0",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.6",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.4",
+        "attributes": {
+          "ssc_percentage": "0.6",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.4",
+          "mba_percent": "0.8"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.9",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "0.4",
+          "html": "0.2",
+          "accounting": "0.2",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.5",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.1",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.0",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.0",
+          "ssc_board": "0.2",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.5",
+          "hsc_subject": "0.6",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "1.0",
+          "job_placement_history": "0.3"
+        }
+      },
+      "tech_skills": {
+        "score": "0.1",
+        "attributes": {
+          "java": "0.5",
+          "html": "1.0",
+          "accounting": "0.9",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.9",
+          "hybrid": "1.0",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.5",
+            "Essex": "1.0"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.0",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "1.0",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.2",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "1.0",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.6",
+          "mba_percent": "0.8"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.0",
+          "specialisation": "0.4",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "1.0",
+          "html": "1.0",
+          "accounting": "0.7",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.6",
+          "hybrid": "0.5",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.1",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "1.0",
+        "attributes": {
+          "nickname": "0.0",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.3",
+          "undergrad_degree": "0.0",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.2",
+          "specialisation": "0.7",
+          "job_placement_history": "0.5"
+        }
+      },
+      "tech_skills": {
+        "score": "0.9",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.3",
+          "accounting": "0.1",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.7",
+          "hybrid": "0.1",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.9",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "1.0",
+          "job_placement_history": "1.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.7",
+          "accounting": "0.0",
+          "project_management": "1.0"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.2",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.2",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "1.0",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.6",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.7",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "1.0",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.2",
+          "job_placement_history": "0.3"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "0.6",
+          "html": "0.7",
+          "accounting": "0.2",
+          "project_management": "0.2"
+        }
+      },
+      "general": {
+        "score": "0.2",
+        "attributes": {
+          "ready_to_move": "0.0",
+          "remote_only": "0.1",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.4",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "0.5",
+            "Essex": "0.8"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.7",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.0",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.6",
+          "undergrad_degree": "1.0",
+          "work_experience": "0.5",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.8",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "1.0",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.6",
+          "accounting": "0.5",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.3",
+          "hybrid": "0.6",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.6",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.7",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.9",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "1.0",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.9"
+        }
+      },
+      "industry_skills": {
+        "score": "0.0",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.5",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.1",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.9",
+          "accounting": "0.3",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.8",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.4",
+          "hybrid": "0.0",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.6",
+            "Essex": "0.7"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "0.9",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.6",
+          "undergrad_degree": "0.4",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "0.4",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.3",
+          "accounting": "0.4",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.2",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.1",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.4",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "0.8",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.8"
+        }
+      },
+      "education": {
+        "score": "0.5",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.3",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.0",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.5",
+          "accounting": "0.7",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.3",
+          "hybrid": "1.0",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.8",
+            "Essex": "0.5"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.6",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.4"
+        }
+      },
+      "education": {
+        "score": "0.6",
+        "attributes": {
+          "ssc_percentage": "0.9",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.8",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.0",
+          "specialisation": "0.7",
+          "job_placement_history": "0.5"
+        }
+      },
+      "tech_skills": {
+        "score": "0.0",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.7",
+          "accounting": "0.7",
+          "project_management": "0.1"
+        }
+      },
+      "general": {
+        "score": "0.5",
+        "attributes": {
+          "ready_to_move": "0.2",
+          "remote_only": "0.2",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.8",
+            "Liverpool": "0.5",
+            "Essex": "0.6"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.4",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.1",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.2",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.4",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.8",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.8"
+        }
+      },
+      "industry_skills": {
+        "score": "0.8",
+        "attributes": {
+          "industry_experience": "0.4",
+          "specialisation": "0.9",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.1",
+          "accounting": "1.0",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.9",
+        "attributes": {
+          "ready_to_move": "0.5",
+          "remote_only": "0.3",
+          "hybrid": "0.8",
+          "in_office_preferred": "1.0",
+          "preferred_location": {
+            "London": "0.3",
+            "Liverpool": "0.0",
+            "Essex": "0.7"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.9",
+          "gender": "1.0"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.3",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.6",
+          "degree_percentage": "0.2",
+          "undergrad_degree": "1.0",
+          "work_experience": "0.2",
+          "emp_test_percentage": "0.7",
+          "mba_percent": "0.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.7",
+        "attributes": {
+          "industry_experience": "0.2",
+          "specialisation": "0.1",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.7",
+          "html": "0.8",
+          "accounting": "0.2",
+          "project_management": "0.7"
+        }
+      },
+      "general": {
+        "score": "1.0",
+        "attributes": {
+          "ready_to_move": "0.3",
+          "remote_only": "0.2",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.3",
+            "Liverpool": "0.3",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.4",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.0",
+          "hsc_percentage": "0.1",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.7",
+          "degree_percentage": "0.9",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.0",
+          "mba_percent": "0.5"
+        }
+      },
+      "industry_skills": {
+        "score": "0.1",
+        "attributes": {
+          "industry_experience": "0.3",
+          "specialisation": "0.1",
+          "job_placement_history": "0.6"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.9",
+          "accounting": "0.9",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.6",
+          "remote_only": "0.7",
+          "hybrid": "0.4",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.5",
+            "Liverpool": "0.4",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.9"
+        }
+      },
+      "education": {
+        "score": "0.6",
+        "attributes": {
+          "ssc_percentage": "0.3",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.5",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.6",
+          "degree_percentage": "0.4",
+          "undergrad_degree": "0.1",
+          "work_experience": "0.1",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.5",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.8",
+          "job_placement_history": "0.1"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.2",
+          "html": "0.1",
+          "accounting": "1.0",
+          "project_management": "0.2"
+        }
+      },
+      "general": {
+        "score": "0.4",
+        "attributes": {
+          "ready_to_move": "0.9",
+          "remote_only": "0.3",
+          "hybrid": "0.5",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.4",
+            "Liverpool": "1.0",
+            "Essex": "0.2"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.1",
+        "attributes": {
+          "nickname": "1.0",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.6",
+          "hsc_board": "0.1",
+          "hsc_subject": "1.0",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.0",
+          "work_experience": "0.4",
+          "emp_test_percentage": "0.3",
+          "mba_percent": "0.4"
+        }
+      },
+      "industry_skills": {
+        "score": "0.9",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.4",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.6",
+          "html": "0.5",
+          "accounting": "0.4",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.5",
+        "attributes": {
+          "ready_to_move": "1.0",
+          "remote_only": "0.8",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.0",
+            "Liverpool": "0.8",
+            "Essex": "0.5"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.3",
+        "attributes": {
+          "nickname": "0.1",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "1.0",
+        "attributes": {
+          "ssc_percentage": "0.4",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.7",
+          "hsc_board": "0.8",
+          "hsc_subject": "0.7",
+          "degree_percentage": "1.0",
+          "undergrad_degree": "0.9",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.2",
+          "mba_percent": "0.1"
+        }
+      },
+      "industry_skills": {
+        "score": "0.4",
+        "attributes": {
+          "industry_experience": "0.7",
+          "specialisation": "1.0",
+          "job_placement_history": "0.8"
+        }
+      },
+      "tech_skills": {
+        "score": "0.6",
+        "attributes": {
+          "java": "0.3",
+          "html": "0.9",
+          "accounting": "0.8",
+          "project_management": "0.5"
+        }
+      },
+      "general": {
+        "score": "0.5",
+        "attributes": {
+          "ready_to_move": "0.9",
+          "remote_only": "0.1",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.8",
+          "preferred_location": {
+            "London": "0.2",
+            "Liverpool": "0.8",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.0",
+        "attributes": {
+          "nickname": "0.5",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.2",
+        "attributes": {
+          "ssc_percentage": "0.2",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.2",
+          "hsc_board": "0.9",
+          "hsc_subject": "0.5",
+          "degree_percentage": "0.0",
+          "undergrad_degree": "0.2",
+          "work_experience": "0.6",
+          "emp_test_percentage": "0.6",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.8",
+        "attributes": {
+          "industry_experience": "0.4",
+          "specialisation": "0.0",
+          "job_placement_history": "1.0"
+        }
+      },
+      "tech_skills": {
+        "score": "0.5",
+        "attributes": {
+          "java": "0.8",
+          "html": "0.5",
+          "accounting": "0.9",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.3",
+        "attributes": {
+          "ready_to_move": "0.8",
+          "remote_only": "0.3",
+          "hybrid": "0.9",
+          "in_office_preferred": "0.3",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.4",
+            "Essex": "0.4"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.5",
+        "attributes": {
+          "nickname": "0.8",
+          "gender": "0.6"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.1",
+          "ssc_board": "0.4",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.6",
+          "hsc_subject": "0.1",
+          "degree_percentage": "0.6",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.8",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.7"
+        }
+      },
+      "industry_skills": {
+        "score": "0.6",
+        "attributes": {
+          "industry_experience": "0.5",
+          "specialisation": "0.2",
+          "job_placement_history": "0.2"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.5",
+          "html": "0.4",
+          "accounting": "0.3",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.0",
+        "attributes": {
+          "ready_to_move": "1.0",
+          "remote_only": "0.7",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.6",
+          "preferred_location": {
+            "London": "0.6",
+            "Liverpool": "1.0",
+            "Essex": "0.3"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.9",
+        "attributes": {
+          "nickname": "0.7",
+          "gender": "0.7"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.1",
+          "hsc_percentage": "0.4",
+          "hsc_board": "0.3",
+          "hsc_subject": "0.5",
+          "degree_percentage": "1.0",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.3",
+          "emp_test_percentage": "0.9",
+          "mba_percent": "0.3"
+        }
+      },
+      "industry_skills": {
+        "score": "0.0",
+        "attributes": {
+          "industry_experience": "0.4",
+          "specialisation": "0.4",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.1",
+          "accounting": "0.3",
+          "project_management": "0.2"
+        }
+      },
+      "general": {
+        "score": "0.0",
+        "attributes": {
+          "ready_to_move": "0.9",
+          "remote_only": "0.8",
+          "hybrid": "0.7",
+          "in_office_preferred": "0.1",
+          "preferred_location": {
+            "London": "0.1",
+            "Liverpool": "0.8",
+            "Essex": "0.3"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.4",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.3",
+        "attributes": {
+          "ssc_percentage": "0.5",
+          "ssc_board": "0.7",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.6",
+          "work_experience": "0.9",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "1.0"
+        }
+      },
+      "industry_skills": {
+        "score": "0.2",
+        "attributes": {
+          "industry_experience": "0.9",
+          "specialisation": "0.1",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.8",
+        "attributes": {
+          "java": "0.9",
+          "html": "0.8",
+          "accounting": "0.6",
+          "project_management": "0.6"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "1.0",
+          "remote_only": "0.2",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "1.0",
+            "Liverpool": "0.0",
+            "Essex": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.2",
+        "attributes": {
+          "nickname": "0.3",
+          "gender": "0.2"
+        }
+      },
+      "education": {
+        "score": "0.9",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.2",
+          "hsc_percentage": "0.9",
+          "hsc_board": "0.1",
+          "hsc_subject": "0.3",
+          "degree_percentage": "0.7",
+          "undergrad_degree": "0.5",
+          "work_experience": "0.7",
+          "emp_test_percentage": "0.5",
+          "mba_percent": "0.6"
+        }
+      },
+      "industry_skills": {
+        "score": "0.8",
+        "attributes": {
+          "industry_experience": "0.4",
+          "specialisation": "0.1",
+          "job_placement_history": "0.9"
+        }
+      },
+      "tech_skills": {
+        "score": "0.4",
+        "attributes": {
+          "java": "1.0",
+          "html": "0.4",
+          "accounting": "0.5",
+          "project_management": "0.3"
+        }
+      },
+      "general": {
+        "score": "0.6",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.2",
+          "hybrid": "0.2",
+          "in_office_preferred": "0.7",
+          "preferred_location": {
+            "London": "0.7",
+            "Liverpool": "0.1",
+            "Essex": "0.9"
+          }
+        }
+      }
+    },
+    {
+      "personal": {
+        "score": "0.0",
+        "attributes": {
+          "nickname": "0.2",
+          "gender": "0.3"
+        }
+      },
+      "education": {
+        "score": "0.7",
+        "attributes": {
+          "ssc_percentage": "0.8",
+          "ssc_board": "0.5",
+          "hsc_percentage": "0.8",
+          "hsc_board": "0.2",
+          "hsc_subject": "0.2",
+          "degree_percentage": "0.1",
+          "undergrad_degree": "0.3",
+          "work_experience": "0.0",
+          "emp_test_percentage": "0.8",
+          "mba_percent": "0.2"
+        }
+      },
+      "industry_skills": {
+        "score": "0.3",
+        "attributes": {
+          "industry_experience": "0.6",
+          "specialisation": "0.2",
+          "job_placement_history": "0.4"
+        }
+      },
+      "tech_skills": {
+        "score": "0.3",
+        "attributes": {
+          "java": "0.4",
+          "html": "0.7",
+          "accounting": "0.4",
+          "project_management": "0.9"
+        }
+      },
+      "general": {
+        "score": "0.2",
+        "attributes": {
+          "ready_to_move": "0.4",
+          "remote_only": "0.4",
+          "hybrid": "0.3",
+          "in_office_preferred": "0.9",
+          "preferred_location": {
+            "London": "0.9",
+            "Liverpool": "0.4",
+            "Essex": "0.9"
+          }
+        }
+      }
+    }
+  ]
+}
